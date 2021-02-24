@@ -13,14 +13,11 @@ public class MangaMain{
     public static void main(String[] args) throws IOException {
 /*
         //第一部分，用户输入漫画名获取其id （可与第二部合并）
-        String name = "名剑冢";
-        //String id = Request.main("https://www.kanman.com/api/getsortlist/?search_key="+name);
-        //id=new String(id.getBytes("UTF-8"), "GBK");
-        //{"data":[{"comic_id":108243,"comic_name":"����ڣ","last_chapter_name":"��25��1 ��ת","comic_type":"xuanhuan,����|gufeng,�ŷ�|lianai,����","comic_newid":"mjz","comic_author":"�쪶���","renqi":876457319,"update_time":1614047251366,"shoucang":526884,"cover_img":"http://image.yqmh.com/mh/108243_3_4.jpg-noresize.webp"}],"status":0,"message":"ok"}
+        String key = "名剑冢";
+        //String id = Request.main("https://www.kanman.com/api/getsortlist/?search_key="+key);
 
         //第二部分，通过用户输入的id解析相应漫画html
-        //注意代码可能有些紧凑，请区分Chapter_*与Chapter*，L与l
-        String id = "17745";
+        String id = "108243";
         String html = Request.main("https://www.kanman.com/"+id);
 
         Document doc = Jsoup.parse(html);
@@ -121,24 +118,3 @@ public class MangaMain{
     }
      */
 }
-
-/*
-第25话1 逆转
-window.$definitions={low:"-kmh.low",middle:"-kmh.middle",high:"-kmh.high"},window.pageType="read",
-window.comicInfo={comic_id:108243,comic_newid:"mjz",comic_name:"名剑冢",last_chapter_id:"1768034",last_chapter_newid:"di25hua1-1613805800016",
-last_chapter_name:"第25话1 逆转"...current_chapter:{chapter_name:"第25话1 逆转",chapter_newid:"di25hua1-1613805800016",chapter_id:1768034,chapter_domain_suffix:"",chapter_domain:"dm300.com",start_num:1,
-end_num:23,price:24,chapter_image_addr:"/mh/108243_2_1.jpg",create_date:16140384e5,rule:"/comic/M/名剑冢/第25话1F1_304200/$$.jpg"},
-prev_chapter:{chapter_id:1766985,chapter_newid:"di24hua3-1612669180047",chapter_name:"第24话3 转机",price:24,chapter_image_addr:"/mh/108243_2_1.jpg",create_time:"2021-02-19T00:00:00.000Z",topic_copyright:"",chapter_domain:"dm300.com",rule:"/comic/M/名剑冢/第24话3F0_303260/$$.jpg",start_num:1,end_num:28,create_date:16140384e5,chapter_domain_suffix:""},
-next_chapter:null,seoTitleTemplate:{default:"{0}{1} {0}漫画{1}",title:"{0}{1}话 {2} {0}漫画{1}话 {2} 看漫画"}}
- */
-/*
-第23话3 危机
-current_chapter:{chapter_name:"第23话3 危机",chapter_newid:"di23hua3-1612669180016",chapter_id:1766982,
-chapter_domain_suffix:"",chapter_domain:"dm300.com",start_num:1,end_num:26,price:24,
-chapter_image_addr:"/mh/108243_2_1.jpg",create_date:16128288e5,rule:"/comic/M/名剑冢/第23话3F0_303256/$$.jpg"},
-prev_chapter:{chapter_id:1767035,chapter_newid:"1yuedacallhuojiangmingdan-1612684720015",chapter_name:"1月打call获奖名单 ",
-price:0,chapter_image_addr:"/mh/108243_2_1.jpg",create_time:"2021-02-09T05:40:15.000Z",topic_copyright:"",
-chapter_domain:"dm300.com",rule:"/comic/M/名剑冢/1月打call获奖名单F0_303305/$$.jpg",start_num:1,end_num:1,
-create_date:16128288e5,chapter_domain_suffix:""},
-next_chapter:{chapter_id:1766983,chapter_newid:"di24hua1-1612669180031",chapter_name:"第24话1 转机",price:24,chapter_image_addr:"/mh/108243_2_1.jpg",create_time:"2021-02-12T00:00:00.000Z",topic_copyright:"",chapter_domain:"dm300.com",rule:"/comic/M/名剑冢/第24话1F0_303257/$$.jpg",start_num:1,end_num:27,create_date:16128288e5,chapter_domain_suffix:""},seoTitleTemplate:{default:"{0}{1} {0}漫画{1}",title:"{0}{1}话 {2} {0}漫画{1}话 {2} 看漫画"}}
-*/
