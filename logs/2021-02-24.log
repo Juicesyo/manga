@@ -1,0 +1,6 @@
+[92m2021-02-24 20:15:04 I/Net 1483400159: Connected to server 42.81.172.81:80[0m
+[0m2021-02-24 20:15:04 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-24 20:15:04 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-24 20:15:04 I/Net 1483400159: Connected to server 42.81.172.81:80[0m
+[0m2021-02-24 20:15:04 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-24 20:15:04 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m

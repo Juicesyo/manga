@@ -1,0 +1,90 @@
+[92m2021-02-22 16:25:38 I/Net 1483400159: Connected to server 42.81.172.147:443[0m
+[0m2021-02-22 16:25:38 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:25:38 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:25:38 I/Net 1483400159: Connected to server 42.81.172.147:443[0m
+[0m2021-02-22 16:25:38 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:25:38 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:45:39 I/Net 1483400159: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-22 16:45:39 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:45:39 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:45:39 I/Net 1483400159: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-22 16:45:39 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:45:39 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:48:02 I/Net 1483400159: Connected to server 114.221.144.215:80[0m
+[0m2021-02-22 16:48:02 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:48:03 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:48:03 I/Net 1483400159: Connected to server 114.221.144.215:80[0m
+[0m2021-02-22 16:48:03 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:48:03 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:55:52 I/Net 1483400159: Connected to server 125.94.60.146:80[0m
+[0m2021-02-22 16:55:52 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:55:52 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:55:52 I/Net 1483400159: Connected to server 125.94.60.146:80[0m
+[0m2021-02-22 16:55:52 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:55:52 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:57:29 I/Net 1483400159: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-22 16:57:29 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:57:30 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 16:57:30 I/Net 1483400159: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-22 16:57:30 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 16:57:30 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 17:03:42 I/Net 1483400159: Connected to server 42.81.172.22:80[0m
+[0m2021-02-22 17:03:42 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 17:03:42 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 17:03:42 I/Net 1483400159: Connected to server 42.81.172.22:80[0m
+[0m2021-02-22 17:03:42 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 17:03:42 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 17:18:42 I/Net 1483400159: Connected to server 114.221.144.215:80[0m
+[0m2021-02-22 17:18:42 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 17:18:43 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 17:18:43 I/Net 1483400159: Connected to server 114.221.144.215:80[0m
+[0m2021-02-22 17:18:43 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 17:18:43 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 17:28:21 I/Net 1483400159: Connected to server 42.81.172.147:443[0m
+[0m2021-02-22 17:28:21 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 17:28:22 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 17:28:22 I/Net 1483400159: Connected to server 42.81.172.147:443[0m
+[0m2021-02-22 17:28:22 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 17:28:22 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:00:41 I/Net 1483400159: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-22 18:00:41 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:00:41 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:00:41 I/Net 1483400159: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-22 18:00:41 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:00:41 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:01:29 I/Net 1483400159: Connected to server 42.81.172.81:80[0m
+[0m2021-02-22 18:01:29 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:01:29 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:01:29 I/Net 1483400159: Connected to server 42.81.172.81:80[0m
+[0m2021-02-22 18:01:29 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:01:30 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:15:42 I/Net 1483400159: Connected to server 114.221.144.215:80[0m
+[0m2021-02-22 18:15:42 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:15:42 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:15:42 I/Net 1483400159: Connected to server 114.221.144.215:80[0m
+[0m2021-02-22 18:15:42 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:15:42 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:15:52 I/Net 1483400159: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-22 18:15:52 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:15:52 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:15:53 I/Net 1483400159: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-22 18:15:53 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:15:53 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:44:41 I/Net 1483400159: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-22 18:44:41 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:44:41 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:44:41 I/Net 1483400159: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-22 18:44:41 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:44:41 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:45:24 I/Net 1483400159: Connected to server 42.81.172.147:443[0m
+[0m2021-02-22 18:45:24 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:45:24 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:45:25 I/Net 1483400159: Connected to server 42.81.172.147:443[0m
+[0m2021-02-22 18:45:25 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:45:25 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:45:39 I/Net 1483400159: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-22 18:45:39 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:45:39 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-02-22 18:45:39 I/Net 1483400159: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-22 18:45:39 V/Net 1483400159: Send: wtlogin.login[0m
+[0m2021-02-22 18:45:39 V/Net 1483400159: Recv: LoginPacketResponse.Captcha.Slider[0m

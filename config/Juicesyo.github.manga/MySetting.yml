@@ -1,0 +1,6 @@
+# 是否启用插件
+status: 是
+# 命令前缀
+prefix: manga
+# 模式
+pattern: normal

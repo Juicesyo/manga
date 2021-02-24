@@ -1,0 +1,49 @@
+plugins {
+    id 'java'
+
+    id 'org.jetbrains.kotlin.jvm' version "1.4.20"
+    id 'org.jetbrains.kotlin.plugin.serialization' version "1.4.20"
+
+    id 'com.github.johnrengelman.shadow' version '6.0.0'
+
+    id("net.mamoe.mirai-console") version "2.0-RC" // mirai-console version
+}
+
+group = "Juicesyo.github"
+version = "1.0"
+
+repositories {
+    mavenLocal()
+    jcenter()
+    mavenCentral()
+}
+
+mirai {
+    coreVersion = "2.0-RC" // mirai-core version
+
+    publishing {
+        it.repo = "mirai"
+        it.packageName  = "mirai-manga"
+        it.override = true
+    }
+}
+
+dependencies {
+    //okhttp 4.9.0
+    // define a BOM and its version
+    implementation(platform("com.squareup.okhttp3:okhttp-bom:4.9.0"))
+
+    // define any required OkHttp artifacts without version
+    implementation("com.squareup.okhttp3:okhttp")
+    implementation("com.squareup.okhttp3:logging-interceptor")
+
+    // jsoup HTML parser library @ https://jsoup.org/
+    implementation 'org.jsoup:jsoup:1.13.1'
+
+    //gson
+    //implementation 'com.google.code.gson:gson:2.8.6'
+
+    //fastjson
+    compile 'com.alibaba:fastjson:1.2.73'
+
+}
