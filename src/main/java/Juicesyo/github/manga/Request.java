@@ -15,7 +15,7 @@ public class Request {
         try (Response response = client.newCall(request).execute()) {
             content = response.body().string();
         } catch (IOException e) {
-            //e.printStackTrace();
+            e.printStackTrace();
         }
     return content;
     }
