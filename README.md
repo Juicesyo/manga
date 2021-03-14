@@ -1,4 +1,4 @@
-# mirai-manga
+# manga
 漫画爬虫
 # 说明
 * 命令格式：  
